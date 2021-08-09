@@ -1,0 +1,18 @@
+asgiref==3.4.1
+bcrypt @ file:///C:/ci/bcrypt_1597936263757/work
+certifi==2021.5.30
+cffi @ file:///C:/ci/cffi_1625831749120/work
+cryptography @ file:///C:/ci/cryptography_1616769344312/work
+Django==3.2.6
+fabric @ file:///C:/ci/fabric_1611089612571/work
+invoke @ file:///C:/ci/invoke_1626067522271/work
+paramiko @ file:///tmp/build/80754af9/paramiko_1598886428689/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
+pytz==2021.1
+robotframework==4.1
+robotframework-sshlibrary==3.7.0
+scp==0.13.6
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sqlparse==0.4.1
+wincertstore==0.2
